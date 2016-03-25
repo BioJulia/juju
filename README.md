@@ -1,2 +1,2 @@
-# jv
-Julia Versioning
+# juju
+Manage multiple versions of Julia
